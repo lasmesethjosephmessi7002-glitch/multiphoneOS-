@@ -20,11 +20,13 @@ MultiphoneOS/ ┣ src/ ┃ ┣ main.py          # Interface & execution ┃ ┣ 
 
 ## 📸 Demo
 
+### 🖼️ Quick priview
+## Demo Video
+👉 [Watch the demo on YouTube](https://youtube.com/shorts/oVSD-k235uQ?si=OngLvF_ZUVd0v3Nr)
+
 ### 🎥 Full Demonstration Video
 👉 [Watch the full demo on YouTube](https://youtube.com/shorts/yfDNyxGeRRY?si=uYdZSekWIqkxVyM0) *
 
-### 🖼️ Quick Preview
-![Demo](images/demo.mp4)
 
 
 
