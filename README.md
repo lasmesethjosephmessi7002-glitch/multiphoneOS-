@@ -58,3 +58,18 @@ Lasme Seth Joseph Messi Emmanuel
 High school student (Terminale C)– Passionate about aeronautics, mechanics, and technological innovation.
 📧 Email: lasmesethjosephmessi7002@gmail.com
 📱 Phone: +225 0713855181 / 0103340736
+
+
+
+
+
+
+## 🔖 Author’s Note
+
+This project is part of my personal portfolio as an independent student innovator.  
+While the code and concept are shared publicly for demonstration and educational purposes,  
+they remain part of my original creative and technological work.
+
+© 2025 Lasme Seth Joseph Messi Emmanuel  
+Licensed under the MIT Portfolio License.  
+For any collaboration or research use, please contact: lasmesethjosephmessi7002@gmail.com
