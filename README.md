@@ -54,11 +54,13 @@ Develop a mobile-ready version.
 
 👤 Author
 
-Lasme Seth Joseph Messi Emmanuel
-High school student (Terminale C)– Passionate about aeronautics, mechanics, and technological innovation.
-📧 Email: lasmesethjosephmessi7002@gmail.com
-📱 Phone: +225 0713855181 / 0103340736
+Project created by Lasme Seth Joseph Messi Emmanuel
 
+High school senior (Terminale C), Côte d’Ivoire
+
+Passionate about mechanics, aeronautics, and technological innovation
+
+contact : lasmesethjosephmessi7002@gmail.com
 
 
 
